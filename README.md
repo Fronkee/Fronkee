@@ -39,7 +39,7 @@ Here are some of the technologies I use:
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-228B22?style=for-the-badge&logo=dns&logoColor=white)
 
-## Infrastructures:
+## infrastructure:
 ![Static Badge](https://img.shields.io/badge/networking-basic-red)
 
 ## 🚀 Interests
@@ -47,7 +47,7 @@ Here are some of the technologies I use:
 - 🛠️ DevOps (CI/CD, automation, containers)
 - 🐧 Linux System Administration
 - 💻 Full-Stack Development
-- 🌐 Networking & Security
+- 🌐 Networking
 
 ## 📚 My Latest Projects
 Here are a few things I’ve been working on:
@@ -56,12 +56,12 @@ Here are a few things I’ve been working on:
 - **[Project 2](#)**: A networking simulation tool for learning purposes.
 - **[Project 3](#)**: A responsive web app built with JavaScript, PHP, and CSS.
 
-## ☕ Support Me
+`## ☕ Support Me
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)`
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Fronkee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
