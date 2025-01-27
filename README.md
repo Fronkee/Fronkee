@@ -38,6 +38,9 @@ Here are some of the technologies I use:
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-228B22?style=for-the-badge&logo=dns&logoColor=white)
 
+## Infrastructures:
+https://img.shields.io/badge/networking-basic-red
+
 ## 🚀 Interests
 - 🌩️ Cloud Computing (AWS, Azure)
 - 🛠️ DevOps (CI/CD, automation, containers)
