@@ -27,9 +27,31 @@ Let's connect! 💬
 - 📧 Email: [hanwinaungsdg@gmail.com](mailto:hanwinaungsdg@gmail.com)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
+# Cloud Technologies:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## DevOps Tools:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## Linus: Debian Base & RedHat Base
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![PopOS!](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=green)
+
+## Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Php](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=red)
+![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Css](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)[Basic]
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) [Process]
 
 ![Static Badge](https://img.shields.io/badge/python-3)
 ![Static Badge](https://img.shields.io/badge/javascript-Ecma6-red)
