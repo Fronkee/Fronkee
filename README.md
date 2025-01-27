@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Fronkee]
 
 ## 🌟 About Me
 I'm passionate about cloud computing, DevOps, Linux, development, and networking. I enjoy working on scalable and efficient systems while learning new technologies.
@@ -40,12 +40,13 @@ Here are some of the technologies I use:
 ![Odoo](https://img.shields.io/badge/Odoo-7142FF?style=for-the-badge&logo=odoo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-228B22?style=for-the-badge&logo=dns&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-228B22?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## infrastructure:
 ![Static Badge](https://img.shields.io/badge/networking-basic-red)
 
 ## 🚀 Interests
-- 🌩️ Cloud Computing (AWS, Azure)
+- 🌩️ Cloud Computing (AWS, Azure, Digital Ocean)
 - 🛠️ DevOps (CI/CD, automation, containers)
 - 🐧 Linux System Administration
 - 💻 Full-Stack Development
