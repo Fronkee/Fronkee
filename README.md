@@ -23,7 +23,9 @@ Here are some of the technologies I use:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-red?style=for-the-badge&logo=popos&logoColor=pink)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-48B9C7?style=for-the-badge&logo=almalinux&logoColor=pink)
+![Kali](https://img.shields.io/badge/Kali-48B9C7?style=for-the-badge&logo=kali&logoColor=pink)
+
 ## Developments:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -56,9 +58,6 @@ Here are a few things I’ve been working on:
 - **[Project 2](#)**: A networking simulation tool for learning purposes.
 - **[Project 3](#)**: A responsive web app built with JavaScript, PHP, and CSS.
 
-`## ☕ Support Me`
-`If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊  `
-`[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)`
 
 ## 📈 GitHub Stats
 ![Fronkee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
