@@ -20,7 +20,7 @@ I'm passionate about building [describe your interests, e.g., scalable web apps,
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-F7DF1E?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-profile)
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+<! -- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark) -->
 
 ---
 Let's connect! 💬
