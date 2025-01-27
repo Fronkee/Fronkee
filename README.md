@@ -26,5 +26,5 @@ I'm passionate about building [describe your interests, e.g., scalable web apps,
 Let's connect! 💬
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- 
+![Static Badge](https://img.shields.io/badge/python-3)
