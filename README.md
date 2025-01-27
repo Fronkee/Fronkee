@@ -25,6 +25,6 @@ I'm passionate about building [describe your interests, e.g., scalable web apps,
 ---
 Let's connect! 💬
 - 📧 Email: [hanwinaungsdg@gmail.com](mailto:hanwinaungsdg@gmail.com)
-##- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 
 ![Static Badge](https://img.shields.io/badge/python-3)
