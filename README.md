@@ -39,7 +39,7 @@ Here are some of the technologies I use:
 ![DNS](https://img.shields.io/badge/DNS-228B22?style=for-the-badge&logo=dns&logoColor=white)
 
 ## Infrastructures:
-https://img.shields.io/badge/networking-basic-red
+![Static Badge](https://img.shields.io/badge/networking-basic-red)
 
 ## 🚀 Interests
 - 🌩️ Cloud Computing (AWS, Azure)
