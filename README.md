@@ -46,10 +46,10 @@ Let's connect! 💬
 
 ## Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Php](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=red)
-![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue)
+![Php](https://img.shields.io/badge/Php?style=for-the-badge&logo=php&logoColor=red)
+![Java](https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Css](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)
+![Css](https://img.shields.io/badge/Css?style=for-the-badge&logo=css&logoColor=green)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)[Basic]
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) [Process]
 
