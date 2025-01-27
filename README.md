@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [FRONKEE]!
 
-I'm passionate about building [describe your interests, e.g., scalable web apps, open-source contributions].
+I'm passionate about building [, e.g., scalable web apps, open-source contributions].
 
 ### 🔧 Technologies I Work With:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -26,7 +26,11 @@ I'm passionate about building [describe your interests, e.g., scalable web apps,
 Let's connect! 💬
 - 📧 Email: [hanwinaungsdg@gmail.com](mailto:hanwinaungsdg@gmail.com)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/python-3)
-![Static Badge](https://img.shields.io/badge/javascript-ecmas6-red)
+![Static Badge](https://img.shields.io/badge/javascript-Ecma6-red)
 
