@@ -28,5 +28,5 @@ Let's connect! 💬
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 
 ![Static Badge](https://img.shields.io/badge/python-3)
-![Static Badge](https://img.shields.io/badge/javascript-ecmas6)
+![Static Badge](https://img.shields.io/badge/javascript-ecmas6-red)
 
