@@ -56,9 +56,9 @@ Here are a few things I’ve been working on:
 - **[Project 2](#)**: A networking simulation tool for learning purposes.
 - **[Project 3](#)**: A responsive web app built with JavaScript, PHP, and CSS.
 
-`## ☕ Support Me
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)`
+`## ☕ Support Me`
+`If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊  `
+`[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)`
 
 ## 📈 GitHub Stats
 ![Fronkee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
