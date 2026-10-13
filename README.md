@@ -1,82 +1,149 @@
 # 👋 Hi, I'm Fronkee
 
-### 🚀 DevOps Engineer | Cloud Infrastructure | Kubernetes | Automation
+### DevOps Engineer | Cloud Infrastructure | Kubernetes | Automation
 
-I'm a DevOps Engineer passionate about cloud infrastructure, automation, Linux system administration, and reliable, scalable systems. I enjoy building CI/CD pipelines, managing containerized workloads, automating infrastructure, and improving system reliability through monitoring and observability.
+I'm a DevOps Engineer passionate about cloud computing, infrastructure automation, Linux system administration, and reliable, scalable systems. I enjoy building CI/CD pipelines, managing containerized workloads, automating infrastructure, and improving system reliability through monitoring and observability.
 
-With a background in software development, I bring both development and infrastructure perspectives to solving technical problems. I'm continuously improving my skills in cloud-native technologies, Infrastructure as Code, GitOps, and Site Reliability Engineering (SRE).
+With a background in software development, I bring both development and infrastructure perspectives to solving technical problems. I'm continuously improving my skills in cloud-native technologies, Infrastructure as Code (IaC), GitOps, and Site Reliability Engineering (SRE).
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Technologies
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+### ☁️ Cloud Technologies
+
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- DigitalOcean
 
 ### ⚙️ DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+
+- Docker
+- Kubernetes
+- Terraform
+- GitLab CI/CD
+- GitHub Actions
+- FluxCD
+- GitOps
+- Infrastructure as Code (IaC)
+- Containerization and orchestration
+- Deployment automation
+- CI/CD pipeline development
 
 ### 📊 Monitoring & Observability
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=black)
+
+- Grafana
+- Prometheus
+- Loki
+- Grafana Alloy
+- Log aggregation and analysis
+- Metrics monitoring
+- Troubleshooting and root cause analysis
 
 ### 🔐 Security & Secrets Management
-![SOPS](https://img.shields.io/badge/SOPS-2F855A?style=for-the-badge&logo=mozilla&logoColor=white)
-![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- SOPS
+- age encryption
+- Kubernetes secrets management
+- Infrastructure security
+- Secrets encryption and decryption
 
 ### 🐧 Linux & System Administration
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🌐 Networking
-![DNS](https://img.shields.io/badge/DNS-228B22?style=for-the-badge&logo=cloudflare&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
-![Load Balancing](https://img.shields.io/badge/Load_Balancing-00599C?style=for-the-badge)
+- Linux
+- Ubuntu
+- Fedora
+- Pop!_OS
+- AlmaLinux
+- Kali Linux
+- Linux system administration
+- Shell and command-line tools
+- Package management
+- Service management
+- System troubleshooting
 
-### 💻 Development & Databases
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Networking & Infrastructure
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Nginx
+- Reverse proxy configuration
+- Load balancing fundamentals
+- Port and connectivity troubleshooting
+- Network routing fundamentals
+- Container networking
+
+### 💻 Programming & Development
+
+- Go (Golang)
+- Java
+- PHP
+- JavaScript
+- Node.js
+- CSS3
+- Bootstrap
+- HTML
+- Full-stack web development
+- Application development
+
+### 🗄️ Databases
+
+- PostgreSQL
+- MySQL
+- SQL
+- Database administration fundamentals
+- Database connectivity and troubleshooting
+
+### 🔧 Development Tools & Platforms
+
+- Git
+- GitHub
+- GitLab
+- Linux CLI
+- Docker CLI
+- Kubernetes CLI (`kubectl`)
+- Terraform CLI
+- Nginx
+
+### 🏢 Enterprise & Application Platforms
+
+- Odoo
+- Node.js applications
+- Next.js
+- Web application deployment
+- Application configuration and troubleshooting
 
 ## 🚀 What I Work On
 
 - ☁️ Cloud infrastructure and deployment automation
-- ☸️ Kubernetes cluster administration and container orchestration
-- 🏗️ Infrastructure as Code with Terraform
+- ☸️ Kubernetes workloads and container orchestration
+- 🏗️ Infrastructure provisioning with Terraform
 - 🔄 CI/CD pipeline development and optimization
 - 🔀 GitOps workflows and declarative deployments
 - 📈 Monitoring, logging, and observability
 - 🔐 Secrets management and infrastructure security
 - 🐧 Linux administration and production troubleshooting
-- 🌐 Networking, DNS, reverse proxies, and load balancing
+- 🌐 Networking, DNS, reverse proxies, and connectivity troubleshooting
+- 🐳 Container image builds, deployments, and runtime debugging
+- 🛠️ Automation and operational efficiency
 
-## 🎯 Current Learning Goals
+## 🎯 Career Interests & Learning Goals
 
 - Advanced Kubernetes and cloud-native infrastructure
-- Site Reliability Engineering (SRE) and system reliability
-- Platform Engineering and Internal Developer Platforms
+- Site Reliability Engineering (SRE)
+- Platform Engineering
+- Cloud architecture and high availability
 - Infrastructure automation and GitOps best practices
-- Cloud architecture, scalability, and high availability
+- Production troubleshooting and root cause analysis
+- Scalable and resilient distributed systems
 
 ## 📚 Featured Projects
 
 - **[Project 1](#)** — Infrastructure automation and CI/CD deployment.
 - **[Project 2](#)** — Kubernetes and GitOps-based application deployment.
-- **[Project 3](#)** — Linux system administration and infrastructure troubleshooting tools.
+- **[Project 3](#)** — Linux administration and infrastructure troubleshooting tools.
 
-*Replace these placeholders with your actual repositories.*
+*Replace these placeholders with links to your actual repositories.*
 
 ## 📈 GitHub Stats
 
@@ -86,5 +153,4 @@ With a background in software development, I bring both development and infrastr
 
 ---
 
-💡 *Automate everything you can, monitor what matters, and keep learning.*
-
+💡 **Automate everything you can, monitor what matters, and keep learning.**
